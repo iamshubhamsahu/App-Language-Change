@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Изменение языка приложения</string>
+    <string name="android_app_developer">Разработчик приложений для Android</string>
+    <string name="shubham_sahu">Шубхам Саху</string>
+    <string name="seasia_infotech">Сиазия Инфотех</string>
+    <string name="english">Английский</string>
+    <string name="hindi">хинди</string>
+    <string name="russian">Русский</string>
+</resources>

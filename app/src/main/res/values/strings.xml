@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLanguageChange</string>
+    <string name="android_app_developer">Android App Developer</string>
+    <string name="shubham_sahu">Shubham Sahu</string>
+    <string name="seasia_infotech">Seasia Infotech</string>
+    <string name="english">English</string>
+    <string name="hindi">Hindi</string>
+    <string name="russian">Russian</string>
+</resources>
