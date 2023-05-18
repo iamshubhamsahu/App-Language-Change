@@ -4,9 +4,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.app.LocaleManagerCompat
 import com.example.applanguagechange.utils.changeLanguage
-import java.util.Locale
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
@@ -20,18 +18,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         btn_english.setOnClickListener(this)
         btn_hindi.setOnClickListener(this)
-
         btn_russian.setOnClickListener(this)
-
     }
 
 
     override fun onClick(p0: View?) {
         when (p0?.id) {
             R.id.btn_eng -> {
-                changeLanguage(
-                    this, "en"
-                )
+                changeLanguage(this, "en")
                 recreate()
             }
 
