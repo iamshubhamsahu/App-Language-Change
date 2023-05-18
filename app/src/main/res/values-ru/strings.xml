@@ -7,4 +7,8 @@
     <string name="english">Английский</string>
     <string name="hindi">хинди</string>
     <string name="russian">Русский</string>
+    <string name="goNext">Идти дальше</string>
+    <string name="title_activity_details">Подробности</string>
+    <string name="des">Android-разработчик отвечает за разработку приложений для устройств под управлением операционной системы Android. Из-за фрагментации этой экосистемы разработчик Android должен уделять особое внимание совместимости приложения с несколькими версиями Android и типами устройств.</string>
+
 </resources>

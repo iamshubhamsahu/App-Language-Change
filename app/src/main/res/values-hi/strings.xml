@@ -7,5 +7,7 @@
     <string name="english">अंग्रेज़ी</string>
     <string name="hindi">हिंदी</string>
     <string name="russian">रूसी</string>
-
+    <string name="title_activity_details">विवरण</string>
+    <string name="goNext">अगला जाओ</string>
+    <string name="des">एंड्रॉइड ऑपरेटिंग सिस्टम द्वारा संचालित उपकरणों के लिए एप्लिकेशन विकसित करने के लिए एक एंड्रॉइड डेवलपर जिम्मेदार है। इस पारिस्थितिकी तंत्र के विखंडन के कारण, Android डेवलपर को Android के कई संस्करणों और डिवाइस प्रकारों के साथ एप्लिकेशन की संगतता पर विशेष ध्यान देना चाहिए!</string>
 </resources>
